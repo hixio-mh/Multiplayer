@@ -7016,10 +7016,10 @@ react-devtools-core@^3.6.3:
     shell-quote "^1.6.1"
     ws "^3.3.1"
 
-react-estate@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/react-estate/-/react-estate-1.0.6.tgz#b5d5801feb7bc2f1a747d284a7ab8a4fda19de1d"
-  integrity sha512-OebuBl39mpK9dZ1L+VquH3ji+j9MizpZxNgnVyyIOecfnVdjImEzmUqv1CA7jPqkntidPYho3Q015uaB8Lg+OQ==
+react-estate@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/react-estate/-/react-estate-1.1.2.tgz#71aa2d695e7949a8ecc7b91aac72a1dd5d1b7097"
+  integrity sha512-BPlBS8Gf8VzG3DgBfpBaF/+Cr8n20sdrYT30MyGyO3YFRU1/8fwG9oD3I0jOTcHL10MNeWJhYDNq7aKG2tR9iA==
 
 react-is@^16.8.1, react-is@^16.8.4, react-is@^16.9.0:
   version "16.12.0"
